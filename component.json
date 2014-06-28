@@ -1,0 +1,14 @@
+{
+  "name": "ischromeframe",
+  "repo": "timoxley/ischromeframe",
+  "description": "Detect if running in chrome frame",
+  "version": "1.0.0",
+  "keywords": ["chrome frame", "detect"],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}

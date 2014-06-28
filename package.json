@@ -1,0 +1,10 @@
+{
+  "name": "ischromeframe",
+  "version": "1.0.0",
+  "description": "Detect if running in chrome frame",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": ["chrome frame", "detect"],
+  "author": "Tim Oxley",
+  "license": "MIT"
+}
